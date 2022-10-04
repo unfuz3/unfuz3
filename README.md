@@ -8,7 +8,7 @@ That means that my projects, code and knowledge may be simple, but that's just f
 3 years in **Python** experience
 Basic **Lua** and **Java** stuff
 Done a basic, yet useful **REST API**, in Python, SQLite, and Flask.
-Learning HTML,CSS,JS for **front-end**, (and back-end in a near future).
+Learning HTML,CSS,JS for **front-end**, (and Django for back-end in a near future).
 
 ## My projects?
 At the moment, all the project, scripts, code, and everything I've worked on while learning hasn't been published or uploaded anywhere.
