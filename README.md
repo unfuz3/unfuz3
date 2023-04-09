@@ -1,10 +1,10 @@
 # Hey there!
 
 ## Who am I?
-I'm just an internet user interested in lots of programming stuff, and I try to learn **as much as possible**. That means that my projects, code and knowledge may be simple, but that's just for now.
+I'm just an internet user interested in programming. That's it.
 
 ## My skills?
-3 years in **Python** experience. Basic **Lua** and **Java** stuff. Done a basic, yet useful **REST API**, in Python, SQLite, and Flask.
+Some years in **Python** experience. Basic **Lua** and **Java**.
 
 ## My projects?
-At the moment, all the project, scripts, code, and everything I've worked on while learning hasn't been published or uploaded anywhere. That's why I have this GitHub account, to **share** my future progress with hopefully nice new projects.
+At the moment, all the project, scripts, code, and everything I've worked on while learning hasn't been published or uploaded anywhere. That's why I have this GitHub account, to publish some of the finished or WIP stuff.
