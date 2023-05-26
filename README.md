@@ -7,4 +7,4 @@ I'm just an internet user interested in programming. That's it.
 Some years in **Python** experience. Basic **Lua** and **Java**.
 
 ## My projects?
-At the moment, all the project, scripts, code, and everything I've worked on while learning hasn't been published or uploaded anywhere. That's why I have this GitHub account, to publish some of the finished or WIP stuff.
+They're just some script or discord bots. My latest one is AsciiCam, a python script to convert images or a webcam photo to ascii art.
